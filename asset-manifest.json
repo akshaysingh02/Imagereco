@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/imagereco/static/css/main.129859d9.chunk.css",
+    "main.js": "/imagereco/static/js/main.146110fe.chunk.js",
+    "main.js.map": "/imagereco/static/js/main.146110fe.chunk.js.map",
+    "runtime-main.js": "/imagereco/static/js/runtime-main.621e4816.js",
+    "runtime-main.js.map": "/imagereco/static/js/runtime-main.621e4816.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/imagereco/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0f215c51.chunk.js": "/imagereco/static/js/2.0f215c51.chunk.js",
+    "static/js/2.0f215c51.chunk.js.map": "/imagereco/static/js/2.0f215c51.chunk.js.map",
+    "index.html": "/imagereco/index.html",
+    "precache-manifest.2c2d913c20380573f5453697083c9f20.js": "/imagereco/precache-manifest.2c2d913c20380573f5453697083c9f20.js",
+    "service-worker.js": "/imagereco/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/imagereco/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.129859d9.chunk.css.map": "/imagereco/static/css/main.129859d9.chunk.css.map",
+    "static/js/2.0f215c51.chunk.js.LICENSE.txt": "/imagereco/static/js/2.0f215c51.chunk.js.LICENSE.txt",
+    "static/media/Logo-main.png": "/imagereco/static/media/Logo-main.a3e4819a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.621e4816.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0f215c51.chunk.js",
+    "static/css/main.129859d9.chunk.css",
+    "static/js/main.146110fe.chunk.js"
+  ]
+}
