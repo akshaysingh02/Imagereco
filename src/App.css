@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+  z-index: 0;
+}
+
+.center{
+  display: flex;
+  justify-content: center;
+  z-index: 0;
+}
+.btn-detect{
+  border: 0;
+  z-index: 0;
+}
+
+.particle{
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 0;
+}
